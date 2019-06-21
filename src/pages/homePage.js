@@ -29,7 +29,7 @@ class homePage extends Component{
               href="#"
               style={{ display: 'inline-block', width: '100%', height: this.state.imgHeight }}
             >
-                123
+                1234
               <img
                 src={`${val.img_url}`}
                 alt=""
